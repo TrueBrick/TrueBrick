@@ -32,7 +32,7 @@ Construo projetos para aprender de verdade e documento cada etapa do processo. A
 
 Sigo uma rotina diária com prática obrigatória a cada aula, documentação de cada projeto e revisão semanal, sem pular etapa. Todo projeto aqui reflete um conceito aplicado de verdade, não só teoria.
 
-Vinte anos de jiu-jitsu me ensinaram a estudar assim: repetição, correção e nenhuma etapa pulada. Faixa-preta 3º grau.
+Vinte e nove anos de jiu-jitsu me ensinaram a estudar assim: repetição, correção e nenhuma etapa pulada. Faixa-preta 3º grau.
 
 ---
 
