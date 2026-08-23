@@ -6,7 +6,7 @@ Construo projetos para aprender de verdade e documento cada etapa do processo. A
 
 - Ciclo 2 concluído: API própria em FastAPI, com Pydantic e SQLite, publicada no GitHub
 - Iniciando Engenharia de Software na FIAP (agosto/2026)
-- Agora em Engenharia Profissional: autenticação, testes automatizados, PostgreSQL, Docker e deploy real
+- Próximo ciclo (Engenharia Profissional): autenticação, testes automatizados, PostgreSQL, Docker e deploy
 - Construindo projetos reais a cada etapa, sem pular a prática
 
 ## 🛠 Stack atual
@@ -33,6 +33,8 @@ Construo projetos para aprender de verdade e documento cada etapa do processo. A
 ## 📖 Como estudo
 
 Sigo uma rotina diária com prática obrigatória a cada aula, documentação de cada projeto e revisão semanal, sem pular etapa. Todo projeto aqui reflete um conceito aplicado de verdade, não só teoria.
+
+Uso IA como tutor para explicar, revisar código e me questionar, e registro em nota o que entendi de cada etapa, incluindo os erros. Cada projeto aqui traz no README as decisões que tomei e o que quebrou no caminho.
 
 Vinte e nove anos de jiu-jitsu me ensinaram a estudar assim: repetição, correção e nenhuma etapa pulada. Faixa-preta 3º grau.
 
