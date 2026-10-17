@@ -1,11 +1,11 @@
 # Olá, eu sou o Rodrigo 👋
 
-Construo projetos para aprender de verdade e documento cada etapa do processo. A partir de agosto de 2026, curso Engenharia de Software na FIAP.
+Construo projetos para aprender de verdade e documento cada etapa do processo. Curso Engenharia de Software na FIAP desde agosto de 2026: Fases 1 e 2 concluídas, aguardando o início da Fase 3.
 
 ## 🎯 Foco atual
 
 - Ciclo 2 concluído: API própria em FastAPI, com Pydantic e SQLite, publicada no GitHub
-- Iniciando Engenharia de Software na FIAP (agosto/2026)
+- Engenharia de Software na FIAP: Fases 1 e 2 concluídas, aguardando o início da Fase 3 (outubro/2026)
 - Próximo ciclo (Engenharia Profissional): autenticação, testes automatizados, PostgreSQL, Docker e deploy
 - Construindo projetos reais a cada etapa, sem pular a prática
 
@@ -27,6 +27,7 @@ Construo projetos para aprender de verdade e documento cada etapa do processo. A
 - **[relatorio-automatico](https://github.com/TrueBrick/relatorio-automatico)** — relatório financeiro automatizado em Python, com leitura de CSV e cálculo de rentabilidade.
 - **[integrador-apis-cripto-cambio](https://github.com/TrueBrick/integrador-apis-cripto-cambio)** — valida o preço do Bitcoin em BRL cruzando duas APIs públicas independentes. Python + requests.
 - **[cotacao-cripto](https://github.com/TrueBrick/cotacao-cripto)** — página web que consome a API da CoinGecko em tempo real (HTML, CSS, JavaScript).
+- **[agenda-contatos-cli](https://github.com/TrueBrick/agenda-contatos-cli)** — agenda de contatos em linha de comando com Python puro: cadastro, busca, edição e validação de entrada.
 - **[organizador-arquivos](https://github.com/TrueBrick/organizador-arquivos)** — automação de organização de arquivos por tipo.
 - **[gerenciador-tarefas-cli](https://github.com/TrueBrick/gerenciador-tarefas-cli)** — gerenciador de tarefas via linha de comando, em Python com POO.
 
