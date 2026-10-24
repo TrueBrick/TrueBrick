@@ -5,7 +5,7 @@ Construo projetos para aprender de verdade e documento cada etapa do processo. C
 ## 🎯 Foco atual
 
 - Ciclo 2 concluído: API própria em FastAPI, com Pydantic e SQLite, publicada no GitHub
-- Engenharia de Software na FIAP: Fases 1 e 2 concluídas, aguardando o início da Fase 3 (outubro/2026)
+- Engenharia de Software na FIAP: Fases 1 e 2 concluídas, Fase 3 em andamento. 
 - Próximo ciclo (Engenharia Profissional): autenticação, testes automatizados, PostgreSQL, Docker e deploy
 - Construindo projetos reais a cada etapa, sem pular a prática
 
